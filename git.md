@@ -25,11 +25,12 @@
     ```c
     git push
     ```
-__remove files__
-```c
-git rm --cached ReleaseEN/ENTool/FWReleaseTool/AutoRun/E992001
-```
+7. __remove files__
+    ```c
+    git rm --cached ReleaseEN/ENTool/FWReleaseTool/AutoRun/E992001
+    ```
 
-```c
-
-```
+---
+# git版本控制
+- [基本指令及安裝1](https://ihower.tw/git/basic.html?fbclid=IwAR0tLr3bRigYtLh0UgGM9-u_yM1Rl_f4zi2UsrgFDBaPg5iHR9PhpxP6ke4)  
+- [基本指令及安裝2](https://blog.techbridge.cc/2018/01/17/learning-programming-and-coding-with-python-git-and-github-tutorial/?fbclid=IwAR3DggozDRO5UIqrc3eDyOxvc75sz3gGj-avCY0WPUQ1p7VywdlB1frKTPk)
